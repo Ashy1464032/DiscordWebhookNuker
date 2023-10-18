@@ -7,4 +7,4 @@ run the command pip install -r requirements.txt
 
 ## Use
 To use this tool after setup is as simple as running the command in the command prompt
-main.py <discord webhook url>
+main.py (discord webhook url)
