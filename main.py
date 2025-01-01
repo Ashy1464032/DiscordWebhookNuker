@@ -14,10 +14,9 @@ embed.set_author(   #Sets the author information of the embed
     icon_url="https://upload.wikimedia.org/wikipedia/commons/6/6e/Kim_Jong-un_April_2019_%28cropped%29.jpg",
     url="https://github.com/Ashy1464032"
 )
-embed.add_embed_field(  #Adds the embed field
-    name="Get nuked",
-    value="https://media.tenor.com/JFV9pq6a8_MAAAAd/the-boiiis.gif"
-)
+
+embed.set_image("https://media1.tenor.com/m/Y496Q1n5MosAAAAd/spooky-scary.gif")
+
 webhook.add_embed(embed) #Add the embed to the webhook
 
 while (True) :
